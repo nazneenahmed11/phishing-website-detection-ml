@@ -1,0 +1,11 @@
+Dataset row,Actual,Predicted,Correct
+6838,Phishing,Phishing,True
+6085,Phishing,Phishing,True
+8240,Phishing,Phishing,True
+173,Legitimate,Legitimate,True
+6664,Legitimate,Legitimate,True
+9373,Legitimate,Legitimate,True
+7703,Legitimate,Legitimate,True
+7995,Phishing,Phishing,True
+7951,Legitimate,Legitimate,True
+6887,Phishing,Phishing,True
